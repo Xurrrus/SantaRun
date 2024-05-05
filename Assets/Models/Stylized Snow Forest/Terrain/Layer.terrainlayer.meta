@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1d80a365f4a9aa489135d8f81afb136
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 230653
+  packageName: Stylized Snow Forest
+  packageVersion: 1.0
+  assetPath: Assets/Stylized Snow Forest/Terrain/Layer.terrainlayer
+  uploadId: 536191
